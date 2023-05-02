@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Selamat datang di App Saya!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Get started by edit2 file nya dulu nih
         </p>
       </main>
 
